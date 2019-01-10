@@ -22,7 +22,7 @@ sudo chown -R username:staff /usr/local
 brew install node
 
 ```
-设置国内镜像
+设置国内镜像：[参考链接](https://npm.taobao.org/)
 
 ```
 npm config set registry https://registry.npm.taobao.org 
