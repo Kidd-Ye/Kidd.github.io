@@ -43,11 +43,22 @@ vue init webpack vue_project
 ![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p3.png)
 
 
+## 运行项目
 
+```
+cd vue_project
+npm run dev
+```
 
+当项目跑起来后，用浏览器输入
 
+```
+http://localhost:8080
+```
 
+若看到以下界面，说明项目正常运行起来了。
 
+![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p4.png)
 
 
 
