@@ -35,3 +35,21 @@ vue_project 可以自己指定名称
 ```
 vue init webpack vue_project
 ```
+
+可见到如图所示的目录结构（node_modules文件夹除外）
+
+[img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p2.png)
+
+[img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p3.png)
+
+
+
+
+
+
+
+
+
+
+
+
