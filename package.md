@@ -9,7 +9,7 @@
 
 >下载后解压缩可见目录结构如下：
 
->![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p6.png)
+![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p6.png)
 
 ## 安装打包插件
 
@@ -42,7 +42,7 @@ npm i electron-packager --save-dev
 >>
 >>现在的目录结构如下：
 >>
->>![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p7.png)
+![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p7.png)
 >>
 
 ## 配置package.json
@@ -69,8 +69,7 @@ npm i electron-packager --save-dev
 >
 >可以在网上搜索在线转换，方便快捷。图片准备好后直接放到根目录下
 >
->![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p9.png)
->
+![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p9.png)
 
 
 ## 打包
@@ -91,17 +90,17 @@ npm i electron-packager --save-dev
 >
 >最后，进入文件夹双击图标即可启动程序了。
 >
->![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p12.png)
+![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p12.png)
 >
->![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p13.png)
+![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p13.png)
 >
->![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p14.png)
+![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p14.png)
 >
 >
 >
 
 ## Demo
->项目已经上传至[git](),可以下载参考学习。
+>项目已经上传至[git](https://github.com/Kidd-Ye/demo_electron_packager.git),可以下载参考学习。
 >
 
 
