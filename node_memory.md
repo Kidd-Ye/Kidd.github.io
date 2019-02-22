@@ -1,7 +1,7 @@
 # webpack打包时提示内存溢出
 >如图所示：
 >
->![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p2.png)
+>![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p5.png)
 >
 >原因：
 >
