@@ -50,8 +50,10 @@ npm i electron-packager --save-dev
 >
 >```
 >"packageDarWin": "electron-packager ./app myapp --platform=darwin --arch=x64 --icon=favicon.icns --out=./dist --asar --app-version=1.0.0 --overwrite --electron-version=4.0.1",
+>```
 
-"packageWin": "electron-packager ./app myapp --platform=win32 --arch=x64 --icon=favicon.ico --out=./dist --asar --app-version=1.0.0 --overwrite --electron-version=4.0.1"
+>```
+>"packageWin": "electron-packager ./app myapp --platform=win32 --arch=x64 --icon=favicon.ico --out=./dist --asar --app-version=1.0.0 --overwrite --electron-version=4.0.1"
 >```
 
 >
