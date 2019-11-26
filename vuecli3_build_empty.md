@@ -24,7 +24,7 @@ const router = new VueRouter({
 mode: process.env.NODE_ENV === "production" ? "hash" : "history",
 ```
 
-###具体详情如下：
+### 具体详情如下：
 
 配置路由模式:
 
@@ -34,7 +34,7 @@ history: 依赖 HTML5 History API 和服务器配置。
 
 abstract: 支持所有 JavaScript 运行环境，如 Node.js 服务器端。如果发现没有浏览器的 API，路由会自动强制进入这个模式。
 
-###结论
+### 结论
 如果使用history模式上线，必须要服务端在服务器上有对应的模式才能使用history（看上面链接），如果服务器上没有配置，可以先使用默认的hash；
 
 参考文章：https://blog.csdn.net/zhengbusi/article/details/98184628
