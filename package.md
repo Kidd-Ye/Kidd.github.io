@@ -50,10 +50,14 @@ npm i electron-packager --save-dev
 >
 >```
 >"packageDarWin": "electron-packager ./app myapp --platform=darwin --arch=x64 --icon=favicon.icns --out=./dist --asar --app-version=1.0.0 --overwrite --electron-version=4.0.1",
-"packageWin": "electron-packager ./app myapp --platform=win32 --arch=x64 --icon=favicon.ico --out=./dist --asar --app-version=1.0.0 --overwrite --electron-version=4.0.1"
 >```
+
+>```
+>"packageWin": "electron-packager ./app myapp --platform=win32 --arch=x64 --icon=favicon.ico --out=./dist --asar --app-version=1.0.0 --overwrite --electron-version=4.0.1"
+>```
+
 >
->![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p8.png)
+![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/p8.png)
 >
 >
 >打包不同平台下的配置不完全相同，可以在网上搜搜有很多讲解这些信息是干嘛的，注意在打包时icon图标信息最好有，否则有可能会打包失败。
