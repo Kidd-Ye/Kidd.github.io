@@ -43,7 +43,7 @@ vue create vue-webpack-demo
 ```
 
 
-![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/vuecli3/config.jpg)
+![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/vuecli3/conf.jpg)
 
 
 ```
@@ -105,7 +105,7 @@ Save preset as：my-conf
 ```
 
 
-![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/vuecli3/config1.jpg)
+![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/vuecli3/conf2.jpg)
 
 ## 运行项目
 
