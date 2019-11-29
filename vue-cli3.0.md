@@ -58,7 +58,7 @@ Use Babel alongside TypeScript for auto-detected polyfills?
 路由使用历史模式，一般实际项目要使用history
 Use history mode for router? (Requires proper server setup for index fallback in production) 
 
-3、CSS Pre-processors css预处理，我用的node-sass
+3、CSS Pre-processors css预处理，我用的dart-sass
 Pick a CSS pre-processor (PostCSS， Autoprefixer and CSS Modules are supported by default)  
   Sass/SCSS (with dart-sass)
   Sass/SCSS (with node-sass)
