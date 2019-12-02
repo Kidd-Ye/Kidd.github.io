@@ -4,7 +4,8 @@
 
 在src目录下创建scss文件夹用于存放样式文件。如下图的文件结构所示：
 
-![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/globalScss/docStru.png)
+
+![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/globalscss/docstru.png)
 
 ## 2  创建 _variables.scss和 _index.scss
 
@@ -49,13 +50,13 @@ module.exports = {
 }
 ```
 
-![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/globalScss/textColor.png)
+![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/globalscss/textcolor.png)
 
 ## 5  查看效果
 
 在命令行输入 npm run serve
 
-![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/globalScss/result)
+![img](https://github.com/Kidd-Ye/Kidd.github.io/blob/master/img/globalscss/result.png)
 
 所以，通过这5 步操作即可轻松引入全局样式。希望帮到您。
 
