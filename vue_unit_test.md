@@ -33,7 +33,7 @@ module.exports = {
 }
 ```
 
-####（3）添加全局变量模拟axios请求
+#### （3）添加全局变量模拟axios请求
 
 在jest.config.js中添加如下代码
 
