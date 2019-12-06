@@ -8,11 +8,11 @@
 
 ## 1  准备工作
 
-####（1）若项目未曾使用过单元测试，按照官方文档一步一步操作。具体链接如下：
+#### （1）若项目未曾使用过单元测试，按照官方文档一步一步操作。具体链接如下：
 
 [用 Jest 测试单文件组件](https://vue-test-utils.vuejs.org/zh/guides/testing-single-file-components-with-jest.html)
 
-####（2）根目录下创建jest.config.js
+#### （2）根目录下创建jest.config.js
 
 将之前写进package.json中的有关jest的配置移动到这个文件中。
 
