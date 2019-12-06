@@ -8,6 +8,7 @@ Be patient. Keep learning.
 * [vuecli3项目搭建](/vue-cli3.0.md)
 * [vuecli3项目build之后浏览器打开一片空白](/vuecli3_build_empty.md)
 * [vue 配置全局样式](/vuecli3_global_scss.md)
+* [vue单元测试 jest+vue unit test+sinon](/vue_unit_test.md)
 
 
 ## Electron
